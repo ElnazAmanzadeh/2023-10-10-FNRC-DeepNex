@@ -52,7 +52,7 @@ It looks like you are setting up a website for a Data Carpentry curriculum but y
 </div>
 {% endunless %}
 {% endif %}
-
+ 
 {% comment %}
 Check SWC curriculum
 {% endcomment %}
